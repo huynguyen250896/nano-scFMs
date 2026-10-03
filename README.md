@@ -11,16 +11,11 @@ All repositories are implemented in pure, modern PyTorch and follow a consistent
 - [x] [nano-scBERT](https://github.com/huynguyen250896/nano-scBERT)
 - [x] [nano-Geneformer](https://github.com/huynguyen250896/nano-Geneformer)
 - [x] [nano-CellFM](https://github.com/huynguyen250896/nano-CellFM)
+- [x] [nano-scGPT](https://github.com/huynguyen250896/nano-scGPT)
 - [ ] nano-scFoundation
 - [ ] nano-scPRINT
 - [ ] nano-TranscriptFormer
 - [ ] nano-Nicheformer
-
-## Related Projects
-
-- [nano-scGPT](https://github.com/Danqi7/nano-scGPT) by Danqi Liao
-
-Danqi Liao has already created an excellent minimal implementation of scGPT, so I chose not to duplicate that effort.
 
 If you know of another single-cell foundation model that should be included, feel free to open an issue or send me a message. To keep the collection focused on established methods, I currently only plan to include models that have been published in peer-reviewed journals.
 
@@ -28,7 +23,7 @@ If you know of another single-cell foundation model that should be included, fee
 
 All credit for the original models and methods goes to the authors of the original papers and official implementations.
 
-nano-scFMs is inspired by Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT), Chris Hayduk's [minAlphaFold2](https://github.com/ChrisHayduk/minAlphaFold2), and especially Danqi Liao's [nano-scGPT](https://github.com/Danqi7/nano-scGPT).
+nano-scFMs is inspired by Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT) and Chris Hayduk's [minAlphaFold2](https://github.com/ChrisHayduk/minAlphaFold2).
 
 If you find this project useful or interesting, please consider STARring⭐ the repository. It helps others discover the project.
 
